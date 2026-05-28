@@ -102,7 +102,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
         <div className="flex items-center transition-transform hover:scale-105">
           <span className={`text-2xl font-black tracking-tighter ${isScrolled ? 'text-emerald-900' : 'text-white'}`}>
-            DAPOLI<span className="text-orange-500">Testing Dev</span>
+            DAPOLI<span className="text-orange-500">NA</span>
           </span>
         </div>
         
